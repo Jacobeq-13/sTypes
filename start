@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sTypes - Welcome</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        header h1 span:nth-child(1) {
+            color: #ff0000; /* Czerwony kolor dla pierwszej litery */
+        }
+
+        header h1 span:nth-child(2) {
+            color: #ff9900; /* Pomarańczowy kolor dla drugiej litery */
+        }
+
+        header h1 span:nth-child(3) {
+            color: #ffff00; /* Żółty kolor dla trzeciej litery */
+        }
+
+        header h1 span:nth-child(4) {
+            color: #33cc33; /* Zielony kolor dla czwartej litery */
+        }
+
+        header h1 span:nth-child(5) {
+            color: #3366cc; /* Niebieski kolor dla piątej litery */
+        }
+
+        header h1 span:nth-child(6) {
+            color: #9933cc; /* Fioletowy kolor dla szóstej litery */
+        }
+
+        nav {
+            text-align: center;
+            background-color: #333;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+            transition: color 0.3s ease-in-out;
+        }
+
+        nav a:hover {
+            color: #ffd700; /* Złoty kolor podświetlenia */
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #333;
+        }
+
+        /* Dodane style dla kolorów "Basic" i "Premium" */
+        h3 {
+            color: #33cc33; /* Zielony kolor dla "Basic" */
+        }
+
+        h3 + p {
+            color: #3366cc; /* Jasnoniebieski kolor dla "Premium" */
+        }
+
+        /* Zmiana koloru na fioletowy dla "@guczimen" */
+        section#contact h3 {
+            color: #9933cc; /* Fioletowy kolor dla "@guczimen" */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>
+            <span style="color: #ff0000;">s</span>
+            <span style="color: #ff9900;">T</span>
+            <span style="color: #ffff00;">y</span>
+            <span style="color: #33cc33;">p</span>
+            <span style="color: #3366cc;">e</span>
+            <span style="color: #9933cc;">s</span>
+        </h1>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#contact">Contact</a>
+        <a href="#plans">Plans</a>
+        <a href="#donation">Donation</a>
+    </nav>
+
+    <section id="home">
+    <h2>Welcome to sTypes</h2>
+    <p>At sTypes, we specialize in helping our clients win money through strategic sports betting. Whether you're a fan of football or basketball, our expert advice aims to guide you in making informed betting decisions.</p>
+
+    <h3>Key Features:</h3>
+    <ul>
+        <li><strong>Money-Winning Assistance:</strong> We are dedicated to assisting our clients in winning money through effective betting strategies.</li>
+        <li><strong>Expert Sports Betting Advice:</strong> Receive personalized advice on betting for football and basketball matches. Our experts analyze the games, providing insights to help you make informed choices.</li>
+        <li><strong>Quick Earnings with a Minimal Investment:</strong> For those who aim to earn quickly with a minimal investment of just $30 or more, sTypes is the perfect platform. We understand the value of your investment and work towards maximizing returns.</li>
+        <li><strong>High Win Efficiency:</strong> Experience a high level of efficiency in winning bets. Our strategies are designed to enhance your chances of success in every match.</li>
+        <li><strong>Affordability and Quality:</strong> sTypes offers incredibly affordable services without compromising on quality. Compare us with other platforms – our results speak for themselves.</li>
+    </ul>
+
+    <p>Join sTypes today and elevate your sports betting experience. Unlock the potential for significant earnings with our reliable and cost-effective services.</p>
+
+    <p>Invest wisely, bet strategically, and let sTypes be your partner in success!</p>
+</section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <!-- Zmiana koloru na fioletowy dla "@guczimen" -->
+        <p>If you have chosen a plan or have any questions, just write to me on Telegram :)<br>
+        <h3 style="color: #9933cc;">@guczimen<h3> <br></p>
+    </section>
+
+    <section id="plans">
+        <h2>Our Plans</h2>
+        <p>
+            <h3>Basic: </h3><br>
+            cost - 0$ <br>
+            duration - unlimited <br>
+            effectiveness - 67% <br><br>
+				<a href="https://web.telegram.org/a/#-1002123089914" target="_blank">Link to Telegram free chanel</a>
+            
+            <h3 style="color: #66b3ff;">Premium</h3>
+            cost - 15$ <br>
+            duration - 14 days <br>
+            effectiveness - 79% <br>
+				<a href="https://web.telegram.org/a/#-1002029339855" target="_blank">Link to Telegram Premium chanel</a>
+        </p>
+    </section>
+
+    <!-- Usunięta zawartość z podstrony "Donation" -->
+    <section id="donation">
+        <h3>If you would like to make a donation to us</h3>
+		<h4>BTC <br>
+		1P9sC9G3ckkyhfmLaox2LK1V1vpzZBpcAD<br>
+		<br>
+		LTC <br>
+		ltc1q0q0u33lf6zfyflj37t7txxw6ykpqw0kn7njfux <br>
+		<br>
+		DOGECOIN<br>
+		D76rGLjh4WXCVCoVDhXvuxstgKUZxefQBH<br><br><br><br></h4>
+    </section>
+
+    <footer>
+        <p>&copy; 2023-2024 sTypes</p>
+    </footer>
+
+</body>
+</html>
